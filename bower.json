@@ -1,0 +1,18 @@
+{
+  "name": "epolice",
+  "authors": [
+    "arturgummel <arturgummel@gmail.com>"
+  ],
+  "description": "e-police task",
+  "main": "main.css",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "3.3.7",
+    "jquery": "3.1.0",
+    "components-font-awesome": "^4.7.0"
+  },
+  "resolutions": {
+    "jquery": "3.1.0"
+  }
+}
